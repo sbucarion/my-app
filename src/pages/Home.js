@@ -34,9 +34,6 @@ const Home = () => {
     getData();
   }, []);
 
-
-  return(<h1>test3953195</h1>)
-
   return (
     <div className="table-container">
     <table className="table">
